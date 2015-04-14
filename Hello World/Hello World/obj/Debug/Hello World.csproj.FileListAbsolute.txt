@@ -1,0 +1,6 @@
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Hello World\Hello World\obj\Debug\Hello World.pdb
