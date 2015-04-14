@@ -10,11 +10,25 @@ namespace Hello_World
     {
         static void Main(string[] args)
         {
-            Console.Write("Fornavn: ");
-            string fornavn = Console.ReadLine();
-            Console.Write("Efternavn: ");
-            string efternavn = Console.ReadLine();
-            Console.WriteLine("Dit fulde navn: " + fornavn + " " + efternavn);
+            int Alder = new int();
+            for (int i = 0; i < 3; i++)
+            {
+                Console.Write("Alder: ");
+                string s_Alder = Console.ReadLine();
+                bool Converted = int.TryParse(s_Alder, out Alder);
+                if (Converted == true)
+                {
+                    Console.Write("Fornavn: ");
+                    string Fornavn = Console.ReadLine();
+                    Console.WriteLine("Din alder er " + Alder + " og dit efternavn er " + Fornavn);
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Kun tal.");
+                }
+            }
+
             Console.ReadKey();
         }
     }
