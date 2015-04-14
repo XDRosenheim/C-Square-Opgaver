@@ -1,0 +1,6 @@
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Opgaver\Opgaver\bin\Debug\Opgaver.exe.config
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Opgaver\Opgaver\bin\Debug\Opgaver.exe
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Opgaver\Opgaver\bin\Debug\Opgaver.pdb
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Opgaver\Opgaver\obj\Debug\Opgaver.exe
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Opgaver\Opgaver\obj\Debug\Opgaver.pdb
+C:\Users\Prog-aia\Desktop\Mappe\Hello World\Hello-world\Opgaver\Opgaver\obj\Debug\Opgaver.csprojResolveAssemblyReference.cache

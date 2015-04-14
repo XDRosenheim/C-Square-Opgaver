@@ -10,12 +10,12 @@ namespace Hello_World
     {
         static void Main(string[] args)
         {
-            int Alder = new int();
-            for (int i = 0; i < 3; i++)
+            int Alder = new int(); //Laver int Alder.
+            for (int i = 0; i < 3; i++) //For loop x3
             {
-                Console.Write("Alder: ");
-                string s_Alder = Console.ReadLine();
-                bool Converted = int.TryParse(s_Alder, out Alder);
+                Console.Write("Alder: "); //Skriver text til prompt.
+                string s_Alder = Console.ReadLine(); //Læser text og ligger det i s_Alder
+                bool Converted = int.TryParse(s_Alder, out Alder); //
                 if (Converted == true)
                 {
                     Console.Write("Fornavn: ");
